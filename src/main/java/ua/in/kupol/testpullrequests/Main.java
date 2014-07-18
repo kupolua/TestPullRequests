@@ -5,6 +5,6 @@ package ua.in.kupol.testpullrequests;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("develop brunch");
+        System.out.println("pull requests brunch");
     }
 }
